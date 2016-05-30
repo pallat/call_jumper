@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+    gem 'sinatra', '~> 1.4', '>= 1.4.7'
+    gem 'mongoid', '~> 5.1', '>= 5.1.3'
+    gem 'rspec', '~> 3.4'
+    gem 'json', '~> 1.8', '>= 1.8.3'
